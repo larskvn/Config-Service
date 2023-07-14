@@ -7,7 +7,7 @@ spring:
         git:
           default-label: main
           uri: https://github.com/larskvn/Configuration-SmartHealt
-          search-paths: config-data
+          search-paths: Config-data
   application:
     name:
       config: config-service
